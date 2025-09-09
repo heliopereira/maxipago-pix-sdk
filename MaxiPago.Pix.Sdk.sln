@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxiPago.Pix.Sdk", "MaxiPago.Pix.Sdk\MaxiPago.Pix.Sdk.csproj", "{AE930CA7-E7B5-7D2C-AEE1-3CA52A07C7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMaxiPagoPixTest", "ConsoleAppMaxiPagoPixTest\ConsoleAppMaxiPagoPixTest.csproj", "{03718AC9-A061-455F-A207-6089772A8753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE930CA7-E7B5-7D2C-AEE1-3CA52A07C7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE930CA7-E7B5-7D2C-AEE1-3CA52A07C7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE930CA7-E7B5-7D2C-AEE1-3CA52A07C7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE930CA7-E7B5-7D2C-AEE1-3CA52A07C7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03718AC9-A061-455F-A207-6089772A8753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03718AC9-A061-455F-A207-6089772A8753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03718AC9-A061-455F-A207-6089772A8753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03718AC9-A061-455F-A207-6089772A8753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C9E0D3-EFFD-4EB2-8EF9-5D9B4909686C}
+	EndGlobalSection
+EndGlobal
