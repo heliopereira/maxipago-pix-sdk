@@ -1,7 +1,9 @@
 # SDK .NET para Integração com MaxiPago PIX
 
-[![NuGet Version](https://img.shields.io/nuget/v/MaxiPago.Pix.Sdk.svg)](https://www.nuget.org/packages/MaxiPago.Pix.Sdk/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+| Package | NuGet Stable | NuGet Pre-release | Downloads | Licence |
+| ------- | ------------ | ----------------- | --------- | ----- |
+| [MaxiPago.Pix.Sdk](https://www.nuget.org/packages/MaxiPago.Pix.Sdk/) | [![MaxiPago.Pix.Sdk](https://img.shields.io/nuget/v/MaxiPago.Pix.Sdk.svg)](https://www.nuget.org/packages/MaxiPago.Pix.Sdk/) | [![MaxiPago.Pix.Sdk](https://img.shields.io/nuget/vpre/MaxiPago.Pix.Sdk.svg)](https://www.nuget.org/packages/MaxiPago.Pix.Sdk/) | [![NuGet Downloads](https://img.shields.io/nuget/dt/MaxiPago.Pix.Sdk.svg)](https://www.nuget.org/packages/MaxiPago.Pix.Sdk/) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
 
 Este é um SDK para a plataforma .NET, projetado para simplificar e acelerar a integração com a API PIX da **MaxiPago**.
 
